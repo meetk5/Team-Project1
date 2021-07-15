@@ -1,3 +1,0 @@
-gkey = AIzaSyC2aAURWu27xL9RJKiSi4ptV7jgmm1kidI
-
-api_key = MqT5ZuZEsOBNhdY90CheiBPBBIHI0orT
