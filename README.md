@@ -1,4 +1,4 @@
-# Impact of COVID-19 onn Uemployment
+# Impact of COVID-19 on Unemployment
 This is our first team project. Our team "Data Super Warriors" aims to analyze the impact of Covid on Employment/UnEmployment in US. Our goal is uncover the employment patterns across various industries,demographics, races etc. We will try to establish the correlation between No. of Covid Cases, Vaccination rate and Unemployment. We will do county-wise analysis for New Jersey in particular. 
 
 
