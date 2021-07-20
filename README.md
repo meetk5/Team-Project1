@@ -64,9 +64,13 @@ Unemployment rates in NJ vs. number of vaccines administered:
 
  
 •	Data shows the unemployment rates for 2019 and 2020 by county in pie charts
+
  o	Pre-Covid, Cape May County had the highest unemployment rate at 6.9%
+ 
  o	Pre Covid, Hunderton County had the lowest unemployment rate at 2.6%
+ 
  o	2020, Atlantic County became the county with the highest unemployment rate changing from 4.9% to 17.8%
+ 
  o	Hunterton County remains the county with the lowest unemployment rate at 7.2%
 
 ![image](https://user-images.githubusercontent.com/84213057/126387394-67822df3-e9e0-4bed-a410-8ee80e8b1a22.png)
@@ -74,14 +78,24 @@ Unemployment rates in NJ vs. number of vaccines administered:
 
 
 •	Data shows the comparison of number of vaccines administered throughout NJ vs. the unemployment rates of NJ counties from December 2020 to July 2021
+
  o	There is a negative correlation between number of vaccines administered and unemployment rates.  As number of vaccines administered increased, the rate of unemployment throughout all counties decreased.  
+ 
  o	Vaccines administered started to plateau in June 2021 and similarly, unemployment rates also plateaued. 
- o	In conclusion, the data shows an increase of vaccines administered helped unemployment rates in NJ decline.
+ 
+ o	An increase in number of vaccines administered corresponded with a decrease in unemployment rates in NJ.
+ 
 Team:
+
 Brian Johnson (Bjohnson08021)
+
 Meet (Meetk5) 
+
 Byron (bpineda225) 
+
 Vasav (Vasavdave)
+
 Shreyas (ssrivastav0494) 
+
 Megan (Mbutler22)
 
