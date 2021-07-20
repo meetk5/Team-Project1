@@ -50,7 +50,7 @@ Unemployment rates in NJ vs. number of vaccines administered:
 
 
 
-•	Data shows the monthly unemployment rates by County in the state of NJ
+•Data shows the monthly unemployment rates by County in the state of NJ
 
    o	Starting around the months of April unemployment peaked till June 2020 and started to drop in July 2020.
  
