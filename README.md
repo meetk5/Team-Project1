@@ -1,17 +1,17 @@
-# Team-Project1
+# Impact of COVID-19 onn Uemployment
 This is our first team project. Our team "Data Super Warriors" aims to analyze the impact of Covid on Employment/UnEmployment in US. Our goal is uncover the employment patterns across various industries,demographics, races etc. We will try to establish the correlation between No. of Covid Cases, Vaccination rate and Unemployment. We will do county-wise analysis for New Jersey in particular. 
 
 
-Impact of Covid on US Employment
+# Project Proposal:  To visualize the impact of Covid on Employment in the US.
 
-Project Proposal:  To visualize the impact of Covid on Employment in the US.
-Questions:
+# Questions:
 1.	How has Covid impacted employment in each industry of the job market in the US?
 2.	How much has Covid impacted the unemployment rate in each county in the state of NJ?
 3.	How has Covid impacted the employment rate of each age group, gender and race?
 4.	What are the correlations between the unemployment rates of NJ vs. the US?
 5.	Has the rate of Vaccinations impacted the rate of employment?
-Data Sources:
+
+# Data Sources:
 1.	U.S. BUREAU OF LABOR STATISTICS:  https://www.bls.gov/ 
 2.	New Jersey LAWD: https://nj.gov/labor/lpa/LMI_index.html
 3.	Public APIs: https://www.bls.gov/developers/api_signature_v2.htm 
@@ -21,7 +21,7 @@ Data Sources:
 
 APIs:
 
-Data Cleaning:
+#Data Cleaning:
 Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb:  Gathered data from New Jersey LAWD website and created clean dataframe with each NJ county’s unemployment rates for every month starting from Jan 2019 to May 2021.
 
 
@@ -34,7 +34,7 @@ Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb:  Gathered data from New Jer
 
 
 
-Reports:
+# Reports:
 
 Unemployment rates in NJ vs. number of vaccines administered:
 
