@@ -52,11 +52,11 @@ Unemployment rates in NJ vs. number of vaccines administered:
 
 •	Data shows the monthly unemployment rates by County in the state of NJ
 
- o	Starting around the months of April unemployment peaked till June 2020 and started to drop in July 2020.
+   o	Starting around the months of April unemployment peaked till June 2020 and started to drop in July 2020.
  
- o	The county with the highest unemployment rate during the peak was Atlantic County
+   o	The county with the highest unemployment rate during the peak was Atlantic County
  
- o	A significant outlier before Covid was Cape May County.
+   o	A significant outlier before Covid was Cape May County.
 
 ![image](https://user-images.githubusercontent.com/84213057/126387334-1a0b23c8-c0d8-419b-ac33-40b910adc1d1.png)
 ![image](https://user-images.githubusercontent.com/84213057/126387356-99f1b333-9efd-44a0-bc0d-befbcea4c873.png)
