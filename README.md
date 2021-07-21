@@ -40,6 +40,7 @@ Reports:
 
 
 -------------------------------------------------------------------------------------------
+
 5) Has the rate of vaccinations impacted the rate of employment?
 
 Details for this analysis can be found in the jupyter notebook – “Covid-19 Vaccination administrated and its impact on US Unemployment-checkpoint.ipynb”
