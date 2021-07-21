@@ -79,8 +79,10 @@ The mathematical formula is composed of a response variable (y), in this case th
 
  
 Simply put an R-squared indicates a measure of how close the data is to the fitted regression line. R-squared is the square of the Pearson's correlation coefficient. In the above graph, Pearson's correlation coefficient was calculated as (-.86) so the expected R-squared value would be .7496 approximately.
-In general, higher R-squared values represent smaller differences between the observed and fitted values. In this analysis the R-squared was 0.75 indicating a fairly strong relationship. The p-value obtained here is 0.0120998 which is well below the standard <.05. If we obtained a large p-value, it would suggest that changes in the predictor (vaccinations administered) are not associated with changes in the response (unemployment rate). However, in this case the small p-value equates to changes in the predictor value (vaccinations administered) are related to changes in the response variable (unemployment rates). 
+In general, higher R-squared values represent smaller differences between the observed and fitted values. In this analysis the R-squared was 0.75 indicating a fairly strong relationship. The p-value obtained here is 0.0120998 which is well below the standard <.05. If we obtained a large p-value, it would suggest that changes in the predictor (vaccinations administered) are not associated with changes in the response (unemployment rate). However, in this case the small p-value equates to changes in the predictor value (vaccinations administered) are related to changes in the response variable (unemployment rates).
+
 At least mathematically there looks to be a statistically significant relationship between the number of vaccinations administered and unemployment rates.
+
 -------------------------------------------------------------------------------------------
 
 
@@ -115,11 +117,11 @@ Unemployment rates in NJ vs. number of vaccines administered:
 
  o	Pre-Covid, Cape May County had the highest unemployment rate at 6.9%
  
- o	Pre Covid, Hunderton County had the lowest unemployment rate at 2.6%
+ o	Pre Covid, Hunterdon County had the lowest unemployment rate at 2.6%
  
  o	2020, Atlantic County became the county with the highest unemployment rate changing from 4.9% to 17.8%
  
- o	Hunterton County remains the county with the lowest unemployment rate at 7.2%
+ o	Hunterdon County remains the county with the lowest unemployment rate at 7.2%
 
 ![image](https://user-images.githubusercontent.com/84213057/126387394-67822df3-e9e0-4bed-a410-8ee80e8b1a22.png)
 ![image](https://user-images.githubusercontent.com/84213057/126387421-6a0955fc-a824-4425-9093-06d82f2f55c1.png)
@@ -132,7 +134,10 @@ Unemployment rates in NJ vs. number of vaccines administered:
  o	Vaccines administered started to plateau in June 2021 and similarly, unemployment rates also plateaued. 
  
  o	An increase in number of vaccines administered corresponded with a decrease in unemployment rates in NJ.
- 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
 Team:
 
 Brian Johnson (Bjohnson08021)
