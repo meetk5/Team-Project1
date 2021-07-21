@@ -21,6 +21,10 @@ Data Sources:
 
 APIs:
 
+![image](https://user-images.githubusercontent.com/83404547/126411717-01af650e-5e1c-4cf1-922a-c9f5c6a92b85.png) ![image](https://user-images.githubusercontent.com/83404547/126411722-63e013ba-f187-4d3c-acbf-c53f47ba3e85.png)
+
+
+
 Data Cleaning:
 Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb:  Gathered data from New Jersey LAWD website and created clean dataframe with each NJ county’s unemployment rates for every month starting from Jan 2019 to May 2021.
 
