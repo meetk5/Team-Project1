@@ -182,6 +182,9 @@ In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relativ
    o	The county with the highest unemployment rate during the peak was Atlantic County
  
    o	A significant outlier before Covid was Cape May County.
+   
+   
+![image](https://user-images.githubusercontent.com/84213057/126713129-5ba5d0c3-8704-4ce8-994a-f5220411cc88.png)
 
  
 •	Data shows the unemployment rates for 2019 and 2020 by county in pie charts
