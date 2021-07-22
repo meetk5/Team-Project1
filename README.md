@@ -1,5 +1,5 @@
 # Team-Project1
-<<<<<<< HEAD
+<<<<<<<
 This is our first team project. Our team "Data Super Warriors" aims to analyze the impact of Covid on Employment/UnEmployment in US. Our goal is uncover the employment patterns across various industries, demographics, races etc. We will try to establish the correlation between No. of Covid Cases, Vaccination rate and Unemployment. We will do county-wise analysis for New Jersey in particular.
 =======
 
@@ -24,7 +24,7 @@ Data Sources:
 5.	Vaccination Data: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc 
 6.	Data for Covid cases: https://github.com/nytimes/covid-19-data 
 
-We start with analyzing Unemployment in various industries in US. As we analyse each industry, we realize that each industry like Food & Drink Services, Education & Health Services, Government services, Goods Producing Industry, Information Industry etc. was negatively impacted around March-April 2020 (when Covid began). 
+We begin with analyzing Unemployment in various industries in US. As we analyse each industry, we realize that each industry like Food & Drink Services, Education & Health Services, Government services, Goods Producing Industry, Information Industry etc. was negatively impacted around March-April 2020 (when Covid began). 
 
 ![image](https://user-images.githubusercontent.com/65046405/126681977-4842840c-2340-48cd-8d08-f90eccb8f8a3.png)
 ![image](https://user-images.githubusercontent.com/65046405/126682095-116f2a07-d3c8-4b1c-8202-53e375c023f7.png)
