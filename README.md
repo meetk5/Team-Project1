@@ -112,13 +112,19 @@ At least mathematically there looks to be a statistically significant relationsh
 
 In 2020, 18.9% of the Hispanic population in the United States were unemployed, the highest unemployment rate of any ethnicity while the national unemployment rate stood at 8.8 percent.
 
-Statewise Unemployment Scenario
+**Statewise Unemployment Scenario**
 
-Unemployment in NJ 2020
+**Unemployment in NJ 2020**
 
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/83404547/126703934-08a34375-e224-438a-b5c5-12f6d52ce136.png">
 
+**Consistent Unemployment Gap betwee Black and White Population**
 
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/83404547/126704400-e2bd2ae6-6326-4c64-8e06-3476ddecbdcc.png">
+
+**Widening Gap of Unemployment betwee Whites and Hispanics**
+
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/83404547/126704655-c8a30db8-bf40-4394-8ebd-874fff196bb6.png">
 
 
 
