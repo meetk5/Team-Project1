@@ -106,6 +106,7 @@ Simply put an R-squared indicates a measure of how close the data is to the fitt
 In general, higher R-squared values represent smaller differences between the observed and fitted values. In this analysis the R-squared was 0.75 indicating a fairly strong relationship. The p-value obtained here is 0.0120998 which is well below the standard <.05. If we obtained a large p-value, it would suggest that changes in the predictor (vaccinations administered) are not associated with changes in the response (unemployment rate). However, in this case the small p-value equates to changes in the predictor value (vaccinations administered) are related to changes in the response variable (unemployment rates).
 
 At least mathematically there looks to be a statistically significant relationship between the number of vaccinations administered and unemployment rates.
+
 -------------------------------------------------------------------------------------------
 # Unemployment Amongst Different Races
 
