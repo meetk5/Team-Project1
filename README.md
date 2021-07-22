@@ -35,7 +35,8 @@ Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb:  Gathered data from New Jer
 
 We begin with analyzing Unemployment in various industries in US. As we analyse each industry, we realize that industries such as Food & Drink Services, Education & Health Services, Government services, Goods Producing Industry, Information Industry etc. was negatively impacted during March-April 2020 at the advent of pandemic. 
 
-![image](https://user-images.githubusercontent.com/65046405/126681977-4842840c-2340-48cd-8d08-f90eccb8f8a3.png)
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/83404547/126714624-5e538ef8-24c3-4c26-afb9-0d1ef92e929d.png">
+
 ![image](https://user-images.githubusercontent.com/65046405/126682095-116f2a07-d3c8-4b1c-8202-53e375c023f7.png)
 
 Analysis was extennded to compare various industries and to idenntify Food & Hospitality industries being the worst hit while Information Industry and Government Services were least impacted. Education & Health Services remained least imapcted and managed to survive the recession.
