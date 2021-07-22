@@ -5,7 +5,7 @@
 
 # Project Proposal: 
 
-This project aims to analyze the impact of COVID-19 on Unemployment in US. Our goal is to uncover the unemployment patterns across various industries, demographics, races etc. We will try to establish the correlation between number of Covid Cases, Vaccination rate and unemployment, inlcudig the data from the state of New Jersey. 
+This project aims to analyze the impact of COVID-19 on Unemployment in US. Our goal is to uncover the unemployment patterns across various industries, demographics, races etc. We established the correlation between number of Covid Cases, Vaccination rate and unemployment. We conclude the analysis with the data from the state of New Jersey and its counties, while correlating it with vaccination rate. 
 
 # Questions:
 1.	How has Covid impacted the employment in US industries?
@@ -168,8 +168,7 @@ In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relativ
 # Megan to ADD
 
 -------------------------------------------------------------------------------------------
-
-# Unemployment Rates in NJ vs. Number of Vaccines Administered
+# Unemployment Across NJ State and Counties
 
 
 <img width="317" alt="image" src="https://user-images.githubusercontent.com/83404547/126707432-59dd332d-9cc7-45ba-8941-e4e2313e0fbc.png">
