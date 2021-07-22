@@ -37,7 +37,7 @@ We begin with analyzing Unemployment in various industries in US. As we analyse 
 
 <img width="510" alt="image" src="https://user-images.githubusercontent.com/83404547/126714624-5e538ef8-24c3-4c26-afb9-0d1ef92e929d.png">
 
-![image](https://user-images.githubusercontent.com/65046405/126682095-116f2a07-d3c8-4b1c-8202-53e375c023f7.png)
+![image](https://user-images.githubusercontent.com/83404547/126715446-ab3163eb-ed46-4104-8551-f7017de99694.png)
 
 Analysis was extennded to compare various industries and to idenntify Food & Hospitality industries being the worst hit while Information Industry and Government Services were least impacted. Education & Health Services remained least imapcted and managed to survive the recession.
 
