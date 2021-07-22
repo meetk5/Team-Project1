@@ -121,8 +121,8 @@ In 2020, 18.9% of the Hispanic population in the United States were unemployed, 
 **Unemployment in NJ 2020**
 
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/83404547/126703934-08a34375-e224-438a-b5c5-12f6d52ce136.png">
-**
-Trends among Asian Workers**
+
+**Trends among Asian Workers**
 
 Asian workers have seen uncharacteristically high unemployment rates throughout the pandemic, with their overall rate still just above 5% in June 2021.
 During 2020, Asian workers saw the highest unemployment rates in Nevada (16.9%), and Hawaii (12.1%).
@@ -152,21 +152,23 @@ Hispanic workers in Massachusetts faced the highest unemployment rate of all gro
 
 Hispanic workers in Kentucky saw the lowest unemployment rates in our data at 4.7%, followed by Hispanic Arkansas at 4.8%.
 
-**
-Trends among white workers**
+**Trends among white workers**
 
 In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relative to what we now recognize was the peak (3.9%) of the previous economic recovery in March 2020. During the pandemic of 2020, average white unemployment rate was at 6.6% with only 2 states being above 10% unemployment rate that is Hawaii and Nevada. Hawaii facing the highest rates, at 11.8%, likely due to the significant blow the pandemic dealt to the tourism and hospitality industries. 
 
 
-**
-Unemployment Rates Recovering in Junne 2021**
+**Unemployment Rates Recovering in Junne 2021**
 
 <img width="716" alt="image" src="https://user-images.githubusercontent.com/83404547/126705273-cb569c3a-76c5-45c7-94c3-5a4b7a136253.png">
 
 
 -------------------------------------------------------------------------------------------
 
-# Unemployment rates in NJ vs. number of vaccines administered
+# Megan to ADD
+
+-------------------------------------------------------------------------------------------
+
+# Unemployment Rates in NJ vs. Number of Vaccines Administered
 
 
 ![image](https://user-images.githubusercontent.com/84213057/126387253-d761a981-4915-4470-866f-76715d9f62f6.png)
