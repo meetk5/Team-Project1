@@ -171,7 +171,7 @@ In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relativ
 # Unemployment Rates in NJ vs. Number of Vaccines Administered
 
 
-![image](https://user-images.githubusercontent.com/84213057/126387253-d761a981-4915-4470-866f-76715d9f62f6.png)
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/83404547/126707432-59dd332d-9cc7-45ba-8941-e4e2313e0fbc.png">
 
 
 
