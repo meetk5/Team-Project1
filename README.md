@@ -112,23 +112,51 @@ At least mathematically there looks to be a statistically significant relationsh
 
 In 2020, 18.9% of the Hispanic population in the United States were unemployed, the highest unemployment rate of any ethnicity while the national unemployment rate stood at 8.8 percent.
 
+<img width="461" alt="image" src="https://user-images.githubusercontent.com/83404547/126705840-8a09d025-efc6-497d-b3c3-b8a2848ef1d2.png">
+
 **Statewise Unemployment Scenario**
 
 <img width="597" alt="image" src="https://user-images.githubusercontent.com/83404547/126705412-a589d28a-f5d9-4dc0-b12b-94f3614b2bb3.png">
 
-
 **Unemployment in NJ 2020**
 
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/83404547/126703934-08a34375-e224-438a-b5c5-12f6d52ce136.png">
+**
+Trends among Asian Workers**
+
+Asian workers have seen uncharacteristically high unemployment rates throughout the pandemic, with their overall rate still just above 5% in June 2021.
+During 2020, Asian workers saw the highest unemployment rates in Nevada (16.9%), and Hawaii (12.1%).
+
+District of Columbia state saw the lowest Asian unemployment rate among the available states, at 4.0%.This rate was also below that of white workers in that state, whose unemployment rate was 4.1%.
+
+In the state of New jersey as well the rate for Asian population was lowest among other races at 8.1% well below average rate of the state (10.5%).
 
 **Consistent Unemployment Gap betwee Black and White Population**
 
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/83404547/126704400-e2bd2ae6-6326-4c64-8e06-3476ddecbdcc.png"> 
 
+African-American Workers workers have seen uncharacteristically high unemployment rates throughout the pandemic, with their overall rate still above 9% in June 2021. During 2020, black workers faced unemployment rates over 10% in 23 states out of 41 for which unemployment data for Black workers was available.
+Unemployment rates were highest for Black workers in Michigan (19.1%), Nevada (18.5%) and Pennsylvania (17.2%).
+Among states with available data, the unemployment rate for Black workers was lowest in Alaska, with a rate of 5.2%. 
+
+In the state of New jersey Black workers were more likely to get unemployed compared to other races with highest unemployment ratio of 13.4% above the average rate of 10.5% in NJ state.
+
+
 **Widening Gap of Unemployment between White and Hispanic Work Group**
 
-
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/83404547/126704655-c8a30db8-bf40-4394-8ebd-874fff196bb6.png">
+
+The overall unemployment rate for Hispanic workers was the highest (18.9%) amongst the other races during the pandemic of 2020. Yet it fell below that of Black workers’ to 7.4% in June 2021, still 3.1 percentage points above the pre-pandemic economic peak.
+
+Hispanic workers in Massachusetts faced the highest unemployment rate of all groups measured, at 15.3%, followed relatively closely behind by Hispanic workers in Rhode Island who faced a 15.2% unemployment rate, and Hispanic Nevadans at 15.2%.  Hispanics in NJ also reported above 10% unemployment rate at 11.5%.
+
+Hispanic workers in Kentucky saw the lowest unemployment rates in our data at 4.7%, followed by Hispanic Arkansas at 4.8%.
+
+**
+Trends among white workers**
+
+In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relative to what we now recognize was the peak (3.9%) of the previous economic recovery in March 2020. During the pandemic of 2020, average white unemployment rate was at 6.6% with only 2 states being above 10% unemployment rate that is Hawaii and Nevada. Hawaii facing the highest rates, at 11.8%, likely due to the significant blow the pandemic dealt to the tourism and hospitality industries. 
+
 
 **
 Unemployment Rates Recovering in Junne 2021**
