@@ -1,6 +1,6 @@
 # Impact of COVID-19 on Unemployment in US
 
-![image](https://user-images.githubusercontent.com/83404547/126715894-a5198793-08da-4c53-8e7a-00284c94c328.png)
+![image](https://user-images.githubusercontent.com/83404547/126716002-5546e7b1-9fbc-4ddd-8bd2-84cf895b5b49.png)
 
 
 # Project Proposal: 
