@@ -106,11 +106,23 @@ Simply put an R-squared indicates a measure of how close the data is to the fitt
 In general, higher R-squared values represent smaller differences between the observed and fitted values. In this analysis the R-squared was 0.75 indicating a fairly strong relationship. The p-value obtained here is 0.0120998 which is well below the standard <.05. If we obtained a large p-value, it would suggest that changes in the predictor (vaccinations administered) are not associated with changes in the response (unemployment rate). However, in this case the small p-value equates to changes in the predictor value (vaccinations administered) are related to changes in the response variable (unemployment rates).
 
 At least mathematically there looks to be a statistically significant relationship between the number of vaccinations administered and unemployment rates.
+-------------------------------------------------------------------------------------------
+# Unemployment Amongst Different Races
+
+In 2020, 18.9% of the Hispanic population in the United States were unemployed, the highest unemployment rate of any ethnicity while the national unemployment rate stood at 8.8 percent.
+
+Statewise Unemployment Scenario
+
+Unemployment in NJ 2020
+
+<img width="935" alt="image" src="https://user-images.githubusercontent.com/83404547/126703934-08a34375-e224-438a-b5c5-12f6d52ce136.png">
+
+
+
+
 
 -------------------------------------------------------------------------------------------
 
-
------------------------------------------------------------
 # Unemployment rates in NJ vs. number of vaccines administered
 
 
