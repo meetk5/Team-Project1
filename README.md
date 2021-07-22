@@ -1,20 +1,21 @@
 # Team-Project1
 <<<<<<< HEAD
-<<<<<<< HEAD
 This is our first team project. Our team "Data Super Warriors" aims to analyze the impact of Covid on Employment/UnEmployment in US. Our goal is uncover the employment patterns across various industries, demographics, races etc. We will try to establish the correlation between No. of Covid Cases, Vaccination rate and Unemployment. We will do county-wise analysis for New Jersey in particular.
 =======
-This is our first team project. Our team "Data Super Warriors" aims to analyze the impact of Covid on Employment/UnEmployment in US. Our goal is uncover the employment patterns across various industries,demographics, races etc. We will try to establish the correlation between No. of Covid Cases, Vaccination rate and Unemployment. We will do county-wise analysis for New Jersey in particular. 
 
+**Impact of Covid on US Employment**
 
-Impact of Covid on US Employment
+Project Proposal:  To visualize the impact of Covid on Employment/Unemployment in the US and correlate it with Number of Covid Cases and Vaccination Rate.
 
-Project Proposal:  To visualize the impact of Covid on Employment in the US.
 Questions:
-1.	How has Covid impacted employment in each industry of the job market in the US?
-2.	How much has Covid impacted the unemployment rate in each county in the state of NJ?
-3.	How has Covid impacted the employment rate of each age group, gender and race?
-4.	What are the correlations between the unemployment rates of NJ vs. the US?
-5.	Has the rate of Vaccinations impacted the rate of employment?
+1.	How has Covid impacted employment in each industry in US?
+2.	What is the correlation between No of Covid Cases and Unemployment?
+3.	How much has Covid impacted the unemployment rate in each county in the state of NJ?
+4.	How has Covid impacted the employment rate of each age group, gender and race?
+5.	What are the correlations between the unemployment rates of NJ vs. the US?
+6.	Has the rate of Vaccinations impacted the rate of employment?
+
+
 Data Sources:
 1.	U.S. BUREAU OF LABOR STATISTICS:  https://www.bls.gov/ 
 2.	New Jersey LAWD: https://nj.gov/labor/lpa/LMI_index.html
@@ -23,7 +24,30 @@ Data Sources:
 5.	Vaccination Data: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc 
 6.	Data for Covid cases: https://github.com/nytimes/covid-19-data 
 
-APIs:
+We start with analyzing Unemployment in various industries in US. As we analyse each industry, we realize that each industry like Food & Drink Services, Education & Health Services, Government services, Goods Producing Industry, Information Industry etc. was negatively impacted around March-April 2020 (when Covid began). 
+
+![image](https://user-images.githubusercontent.com/65046405/126681977-4842840c-2340-48cd-8d08-f90eccb8f8a3.png)
+![image](https://user-images.githubusercontent.com/65046405/126682095-116f2a07-d3c8-4b1c-8202-53e375c023f7.png)
+
+We extend that analysis to compare various industries and found that Food & Hospitality industries were hit the most while Information Industry and Government Services were least impacted. Another industry that was not much hit and manages to remain on top is Education & Health Services.
+
+![image](https://user-images.githubusercontent.com/65046405/126682434-3fd1f14b-7b45-4b32-a4ac-3726ba54c3d6.png)
+
+Followed by industry-level analysis, we did the month-wise analysis from Jan-2020 to June-2021 comparing the Number of Covid Cases with Unemployment in US.
+
+![image](https://user-images.githubusercontent.com/65046405/126682932-37d7d638-3fcf-4da0-9b4c-ed6bd13c033e.png)
+
+As seen from the double line grapth, the unemployment was at it's peak in April-2020 but it slowly came down and has recovered considerably. The number of Covid Cases on the other hand began in Jan-2020 and have considerably risen till May-2021 before they gradually started falling in June-2021. 
+
+To further strengthen our hypothesis, we created a Scatter plot and established Linear Regression between the two variables. 
+
+![image](https://user-images.githubusercontent.com/65046405/126683728-777809de-6a8f-40d4-a00d-51f26b1e1c99.png)
+
+As can be seen from the scatter plot, there's a very weak relation between the Number of Covid Cases and Unemployment. Also, they are negatively correlated. From the r-value (-0.34) and p-value (0.17), it can be concluded that the correlation is not statically significant.
+Therefore, although Employment was hit the most in April-2020 when Covid started, it recovered considerably irrespective of the number of Covid Cases as the industries learnt their ways to combat the problem.
+
+
+
 
 
 
@@ -140,19 +164,13 @@ Unemployment rates in NJ vs. number of vaccines administered:
 -------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------
-Team:
+**Team:**
+Meet K Kaur Sahni (GitHub username: meetk5) 
+Byron (GitHub username:bpineda225)
+Vasav (GitHub username:Vasavdave)
+Megan (GitHub username:Mbutler22)
+Brian Johnson (GitHub username:Bjohnson08021)
 
-Brian Johnson (Bjohnson08021)
-
-Meet (Meetk5) 
-
-Byron (bpineda225) 
-
-Vasav (Vasavdave)
-
-Shreyas (ssrivastav0494) 
-
-Megan (Mbutler22)
 
 >>>>>>> 813c733f6172a8dc316b5133bebf09efe39172eb
 =======
