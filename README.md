@@ -13,7 +13,7 @@ This project aims to analyze the impact of COVID-19 on Unemployment in US. Our g
 3. How has Covid impacted the unemployment amongst different races?
 4.	Comparative analysis on Unemployment situtaion within Tri-State Area.
 5.	How much has Covid impacted the unemployment across NJ state and counties? 
-6.	Has the rate of Vaccinations impacted the rate of employment?
+6.	Has the rate of Vaccinations impacted the rate of unemployment in US ?
 
 
 # Data Sources:
