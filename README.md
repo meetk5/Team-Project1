@@ -5,7 +5,7 @@
 
 # Project Proposal: 
 
-This project aims to analyze the impact of COVID-19 on Employment as well as Unemployment in US. Our goal is uncover the unemployment patterns across various industries, demographics, races etc. We will try to establish the correlation between number of Covid Cases, Vaccination rate and unemployment, inlcudig the data from the state of New Jersey. 
+This project aims to analyze the impact of COVID-19 on Unemployment in US. Our goal is to uncover the unemployment patterns across various industries, demographics, races etc. We will try to establish the correlation between number of Covid Cases, Vaccination rate and unemployment, inlcudig the data from the state of New Jersey. 
 
 # Questions:
 1.	How has Covid impacted the employment in US industries?
