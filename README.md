@@ -61,8 +61,7 @@ Reports:
 
 
 -------------------------------------------------------------------------------------------
-
-5) Has the rate of vaccinations impacted the rate of employment?
+# Analysing Impact of Vaccination on Employment
 
 Details for this analysis can be found in the jupyter notebook – “Covid-19 Vaccination administrated and its impact on US Unemployment-checkpoint.ipynb”
 This part of the team project examined if Covid vaccinations administered had a relationship with the reduction of unemployment numbers in the US. The number of Covid vaccinations administered was used for this study and not the amount delivered. The reason for using the administered vaccinations numbers is even though there were more vaccines delivered if they were not administered then those had no impact. This data was sourced from the Center for Disease Control.
@@ -109,7 +108,7 @@ At least mathematically there looks to be a statistically significant relationsh
 
 
 -----------------------------------------------------------
-# Unemployment rates in NJ vs. number of vaccines administered:
+# Unemployment rates in NJ vs. number of vaccines administered
 
 
 ![image](https://user-images.githubusercontent.com/84213057/126387253-d761a981-4915-4470-866f-76715d9f62f6.png)
@@ -123,9 +122,6 @@ At least mathematically there looks to be a statistically significant relationsh
    o	The county with the highest unemployment rate during the peak was Atlantic County
  
    o	A significant outlier before Covid was Cape May County.
-
-![image](https://user-images.githubusercontent.com/84213057/126387334-1a0b23c8-c0d8-419b-ac33-40b910adc1d1.png) ![image](https://user-images.githubusercontent.com/84213057/126387356-99f1b333-9efd-44a0-bc0d-befbcea4c873.png)
-
 
  
 •	Data shows the unemployment rates for 2019 and 2020 by county in pie charts
