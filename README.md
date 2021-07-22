@@ -208,8 +208,8 @@ In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relativ
  
  
  # Libraries:
-             pip install pandas
-             pip install geopandas
+        pip install pandas
+        pip install geopandas
  
 
 -------------------------------------------------------------------------------------------------------------------------
