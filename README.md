@@ -38,6 +38,8 @@ Followed by industry-level analysis, we did the month-wise analysis from Jan-202
 
 As seen from the double line grapth, the unemployment was at it's peak in April-2020 but it slowly came down and has recovered considerably. The number of Covid Cases on the other hand began in Jan-2020 and have considerably risen till May-2021 before they gradually started falling in June-2021. 
 
+# Correlation between COVID cases and Unemployment 
+
 To further strengthen our hypothesis, we created a Scatter plot and established Linear Regression between the two variables. 
 
 ![image](https://user-images.githubusercontent.com/65046405/126683728-777809de-6a8f-40d4-a00d-51f26b1e1c99.png)
