@@ -21,6 +21,13 @@ This project aims to analyze the impact of COVID-19 on Employment as well as Une
 5.	Vaccination Data: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc 
 6.	Data for Covid cases: https://github.com/nytimes/covid-19-data 
 
+
+
+# Data Cleaning:
+Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb:  Gathered data from New Jersey LAWD website and created clean dataframe with each NJ county’s unemployment rates for every month starting from Jan 2019 to May 2021.
+
+
+
 # Analysing Various Industries across U.S.
 
 We begin with analyzing Unemployment in various industries in US. As we analyse each industry, we realize that industries such as Food & Drink Services, Education & Health Services, Government services, Goods Producing Industry, Information Industry etc. was negatively impacted during March-April 2020 at the advent of pandemic. 
@@ -46,21 +53,6 @@ To further strengthen our hypothesis, we created a Scatter plot and established 
 
 As can be seen from the scatter plot, there's a very weak relation between the Number of Covid Cases and Unemployment. Also, they are negatively correlated. From the r-value (-0.34) and p-value (0.17), it can be concluded that the correlation is not statically significant.
 Therefore, although Employment was hit the most in April-2020 when Covid started, it recovered considerably irrespective of the number of Covid Cases as the industries learnt their ways to combat the problem.
-
-
-
-
-
-
-Data Cleaning:
-Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb:  Gathered data from New Jersey LAWD website and created clean dataframe with each NJ county’s unemployment rates for every month starting from Jan 2019 to May 2021.
-
-
-
-
-
-
-
 
 
 
