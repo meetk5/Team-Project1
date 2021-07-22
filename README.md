@@ -21,12 +21,14 @@ This project aims to analyze the impact of COVID-19 on Employment as well as Une
 5.	Vaccination Data: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc 
 6.	Data for Covid cases: https://github.com/nytimes/covid-19-data 
 
-We begin with analyzing Unemployment in various industries in US. As we analyse each industry, we realize that each industry like Food & Drink Services, Education & Health Services, Government services, Goods Producing Industry, Information Industry etc. was negatively impacted around March-April 2020 (when Covid began). 
+# Analysing Various Inndustries across U.S.
+
+We begin with analyzing Unemployment in various industries in US. As we analyse each industry, we realize that industries such as Food & Drink Services, Education & Health Services, Government services, Goods Producing Industry, Information Industry etc. was negatively impacted during March-April 2020 at the advent of pandemic. 
 
 ![image](https://user-images.githubusercontent.com/65046405/126681977-4842840c-2340-48cd-8d08-f90eccb8f8a3.png)
 ![image](https://user-images.githubusercontent.com/65046405/126682095-116f2a07-d3c8-4b1c-8202-53e375c023f7.png)
 
-We extend that analysis to compare various industries and found that Food & Hospitality industries were hit the most while Information Industry and Government Services were least impacted. Another industry that was not much hit and manages to remain on top is Education & Health Services.
+Analysis was extennded to compare various industries and to idenntify Food & Hospitality industries bein worst hit while Information Industry and Government Services were least impacted. Education & Health Services remained least imapcted and managed to survive the recession.
 
 ![image](https://user-images.githubusercontent.com/65046405/126682434-3fd1f14b-7b45-4b32-a4ac-3726ba54c3d6.png)
 
