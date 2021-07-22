@@ -1,6 +1,6 @@
 # Impact of COVID-19 on Unemployment in US
 
-<img width="353" alt="evans-acosta-economic-impact-covid-june-5" src="https://user-images.githubusercontent.com/83404547/126702616-eb0165d7-eac5-4d5e-b4fe-ccee4ec1176e.png">
+![image](https://user-images.githubusercontent.com/83404547/126715894-a5198793-08da-4c53-8e7a-00284c94c328.png)
 
 
 # Project Proposal: 
