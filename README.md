@@ -1,5 +1,8 @@
 # Impact of COVID-19 on Unemployment in US
 
+<img width="353" alt="evans-acosta-economic-impact-covid-june-5" src="https://user-images.githubusercontent.com/83404547/126702616-eb0165d7-eac5-4d5e-b4fe-ccee4ec1176e.png">
+
+
 # Project Proposal: 
 
 This project aims to analyze the impact of COVID-19 on Employment as well as Unemployment in US. Our goal is uncover the unemployment patterns across various industries, demographics, races etc. We will try to establish the correlation between number of Covid Cases, Vaccination rate and unemployment, inlcudig the data from the state of New Jersey. 
