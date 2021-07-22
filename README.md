@@ -1,10 +1,10 @@
 # Impact of COVID-19 on Unemployment in US
 
-#Project Proposal: 
+# Project Proposal: 
 
 This project aims to analyze the impact of COVID-19 on Employment as well as Unemployment in US. Our goal is uncover the unemployment patterns across various industries, demographics, races etc. We will try to establish the correlation between number of Covid Cases, Vaccination rate and unemployment, inlcudig the data from the state of New Jersey. 
 
-Questions:
+# Questions:
 1.	How has Covid impacted the employment in US industries?
 2.	What is the correlation between number of Covid Cases and Unemployment?
 3. How has Covid impacted the unemployment amongst different races?
@@ -13,7 +13,7 @@ Questions:
 6.	Has the rate of Vaccinations impacted the rate of employment?
 
 
-Data Sources:
+# Data Sources:
 1.	U.S. BUREAU OF LABOR STATISTICS:  https://www.bls.gov/ 
 2.	New Jersey LAWD: https://nj.gov/labor/lpa/LMI_index.html
 3.	Public APIs: https://www.bls.gov/developers/api_signature_v2.htm 
@@ -159,13 +159,13 @@ Unemployment rates in NJ vs. number of vaccines administered:
  o	An increase in number of vaccines administered corresponded with a decrease in unemployment rates in NJ.
 
 
-#Libraries:
+# Libraries:
 pip install pandas
 pip install geopandas
 -------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------
-#Team:
+# Team:
 Meet K Kaur Sahni (GitHub username: meetk5) 
 Byron Pineda (GitHub username:bpineda225)
 Vasav Dave (GitHub username:Vasavdave)
