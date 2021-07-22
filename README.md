@@ -116,13 +116,6 @@ At least mathematically there looks to be a statistically significant relationsh
 
 
 
-
-
-
-
-
-
-
 •Data shows the monthly unemployment rates by County in the state of NJ
 
    o	Starting around the months of April unemployment peaked till June 2020 and started to drop in July 2020.
