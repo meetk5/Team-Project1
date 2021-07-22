@@ -1,18 +1,15 @@
-# Team-Project1
-<<<<<<<
-This is our first team project. Our team "Data Super Warriors" aims to analyze the impact of Covid on Employment/UnEmployment in US. Our goal is uncover the employment patterns across various industries, demographics, races etc. We will try to establish the correlation between No. of Covid Cases, Vaccination rate and Unemployment. We will do county-wise analysis for New Jersey in particular.
-=======
+# Impact of COVID-19 on Unemployment in US
 
-**Impact of Covid on US Employment**
+#Project Proposal: 
 
-Project Proposal:  To visualize the impact of Covid on Employment/Unemployment in the US and correlate it with Number of Covid Cases and Vaccination Rate.
+This project aims to analyze the impact of COVID-19 on Employment as well as Unemployment in US. Our goal is uncover the unemployment patterns across various industries, demographics, races etc. We will try to establish the correlation between number of Covid Cases, Vaccination rate and unemployment, inlcudig the data from the state of New Jersey. 
 
 Questions:
-1.	How has Covid impacted employment in each industry in US?
-2.	What is the correlation between No of Covid Cases and Unemployment?
-3.	How much has Covid impacted the unemployment rate in each county in the state of NJ?
-4.	How has Covid impacted the employment rate of each age group, gender and race?
-5.	What are the correlations between the unemployment rates of NJ vs. the US?
+1.	How has Covid impacted the employment in US industries?
+2.	What is the correlation between number of Covid Cases and Unemployment?
+3. How has Covid impacted the unemployment amongst different races?
+4.	Comparative analysis on Unemployment situtaion within Tri-State Area.
+5.	How much has Covid impacted the unemployment across NJ state and counties? 
 6.	Has the rate of Vaccinations impacted the rate of employment?
 
 
@@ -161,18 +158,18 @@ Unemployment rates in NJ vs. number of vaccines administered:
  
  o	An increase in number of vaccines administered corresponded with a decrease in unemployment rates in NJ.
 
+
+#Libraries:
+pip install pandas
+pip install geopandas
 -------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------
-**Team:**
+#Team:
 Meet K Kaur Sahni (GitHub username: meetk5) 
-Byron (GitHub username:bpineda225)
-Vasav (GitHub username:Vasavdave)
-Megan (GitHub username:Mbutler22)
+Byron Pineda (GitHub username:bpineda225)
+Vasav Dave (GitHub username:Vasavdave)
+Megan Butler (GitHub username:Mbutler22)
 Brian Johnson (GitHub username:Bjohnson08021)
 
 
->>>>>>> 813c733f6172a8dc316b5133bebf09efe39172eb
-=======
-This is our first team project. Our team "Data Super Warriors" aims to analyze the impact of Covid on Employment in US. Our goal is uncover the employment patterns in various industries, and will also focus on New Jersey in particular. 
->>>>>>> county_data
