@@ -127,10 +127,7 @@ Unemployment rates in NJ vs. number of vaccines administered:
  o	2020, Atlantic County became the county with the highest unemployment rate changing from 4.9% to 17.8%
  
  o	Hunterdon County remains the county with the lowest unemployment rate at 7.2%
-
-![image](https://user-images.githubusercontent.com/84213057/126387394-67822df3-e9e0-4bed-a410-8ee80e8b1a22.png)
-![image](https://user-images.githubusercontent.com/84213057/126387421-6a0955fc-a824-4425-9093-06d82f2f55c1.png)
-
+![image](https://user-images.githubusercontent.com/84213057/126576824-95bcabd7-42e5-45cc-94be-c64a6d09b8b3.png)
 
 •	Data shows the comparison of number of vaccines administered throughout NJ vs. the unemployment rates of NJ counties from December 2020 to July 2021
 
