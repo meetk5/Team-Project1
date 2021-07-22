@@ -114,6 +114,9 @@ In 2020, 18.9% of the Hispanic population in the United States were unemployed, 
 
 **Statewise Unemployment Scenario**
 
+<img width="597" alt="image" src="https://user-images.githubusercontent.com/83404547/126705412-a589d28a-f5d9-4dc0-b12b-94f3614b2bb3.png">
+
+
 **Unemployment in NJ 2020**
 
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/83404547/126703934-08a34375-e224-438a-b5c5-12f6d52ce136.png">
@@ -126,6 +129,11 @@ In 2020, 18.9% of the Hispanic population in the United States were unemployed, 
 
 
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/83404547/126704655-c8a30db8-bf40-4394-8ebd-874fff196bb6.png">
+
+**
+Unemployment Rates Recovering in Junne 2021**
+
+<img width="716" alt="image" src="https://user-images.githubusercontent.com/83404547/126705273-cb569c3a-76c5-45c7-94c3-5a4b7a136253.png">
 
 
 -------------------------------------------------------------------------------------------
