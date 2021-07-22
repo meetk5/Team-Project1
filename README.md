@@ -120,12 +120,12 @@ In 2020, 18.9% of the Hispanic population in the United States were unemployed, 
 
 **Consistent Unemployment Gap betwee Black and White Population**
 
-<img width="390" alt="image" src="https://user-images.githubusercontent.com/83404547/126704400-e2bd2ae6-6326-4c64-8e06-3476ddecbdcc.png">
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/83404547/126704400-e2bd2ae6-6326-4c64-8e06-3476ddecbdcc.png"> 
 
-**Widening Gap of Unemployment betwee Whites and Hispanics**
+**Widening Gap of Unemployment between White and Hispanic Work Group**
+
 
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/83404547/126704655-c8a30db8-bf40-4394-8ebd-874fff196bb6.png">
-
 
 
 -------------------------------------------------------------------------------------------
