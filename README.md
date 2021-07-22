@@ -109,7 +109,7 @@ At least mathematically there looks to be a statistically significant relationsh
 
 
 -----------------------------------------------------------
-Unemployment rates in NJ vs. number of vaccines administered:
+# Unemployment rates in NJ vs. number of vaccines administered:
 
 
 ![image](https://user-images.githubusercontent.com/84213057/126387253-d761a981-4915-4470-866f-76715d9f62f6.png)
