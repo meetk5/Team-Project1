@@ -159,11 +159,12 @@ Unemployment rates in NJ vs. number of vaccines administered:
  o	Vaccines administered started to plateau in June 2021 and similarly, unemployment rates also plateaued. 
  
  o	An increase in number of vaccines administered corresponded with a decrease in unemployment rates in NJ.
-
-
-# Libraries:
-pip install pandas
-pip install geopandas
+ 
+ 
+ # Libraries:
+             pip install pandas
+             pip install geopandas
+ 
 
 -------------------------------------------------------------------------------------------------------------------------
 
