@@ -1,6 +1,6 @@
 # Impact of COVID-19 on Unemployment in US
 
-                                                                 <img width="353" alt="evans-acosta-economic-impact-covid-june-5" src="https://user-images.githubusercontent.com/83404547/126702616-eb0165d7-eac5-4d5e-b4fe-ccee4ec1176e.png">
+<img width="353" alt="evans-acosta-economic-impact-covid-june-5" src="https://user-images.githubusercontent.com/83404547/126702616-eb0165d7-eac5-4d5e-b4fe-ccee4ec1176e.png">
 
 
 # Project Proposal: 
@@ -156,10 +156,10 @@ At least mathematically there looks to be a statistically significant relationsh
 
 -------------------------------------------------------------------------------------------------------------------------
 # Team:
-Meet K Kaur Sahni (GitHub username: meetk5) 
-Byron Pineda (GitHub username:bpineda225)
-Vasav Dave (GitHub username:Vasavdave)
-Megan Butler (GitHub username:Mbutler22)
-Brian Johnson (GitHub username:Bjohnson08021)
+        Meet K Kaur Sahni (GitHub username: meetk5) 
+        Byron Pineda (GitHub username:bpineda225)
+        Vasav Dave (GitHub username:Vasavdave)
+        Megan Butler (GitHub username:Mbutler22)
+        Brian Johnson (GitHub username:Bjohnson08021)
 
 
