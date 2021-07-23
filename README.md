@@ -39,11 +39,11 @@ We begin with analyzing Unemployment in various industries in US. As we analyze 
 
 Analysis was extended to compare various industries and to identify Food & Hospitality industries being the worst hit while Information Industry and Government Services were least impacted. Education & Health Services remained least affected and managed to survive the recession.
 
-![image](https://user-images.githubusercontent.com/65046405/126682434-3fd1f14b-7b45-4b32-a4ac-3726ba54c3d6.png)
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/83404547/126844438-5dc0e81e-e011-4a5e-b9b3-a619f743e8c9.png">
 
 Followed by industry-level analysis, we did the month-wise analysis from Jan-2020 to June-2021 to find the relationship between the Number of Covid Cases and Unemployment in US.
 
-![image](https://user-images.githubusercontent.com/65046405/126682932-37d7d638-3fcf-4da0-9b4c-ed6bd13c033e.png)
+<img width="494" alt="image" src="https://user-images.githubusercontent.com/83404547/126844298-874be59f-9047-415f-82f9-ac17bec7ec8a.png">
 
 As seen from the double line grapth, the unemployment was at it's peak in April-2020 but it slowly came down and has recovered considerably. On the other hand, the Covid Cases began in Jan-2020 and have considerably risen till May-2021 before they gradually started falling in June-2021. 
 
