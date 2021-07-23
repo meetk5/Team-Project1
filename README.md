@@ -205,27 +205,20 @@ New York had a massive decrease by November and December of 2020, rising again i
    o	A significant outlier before Covid was Cape May County.
    
    
-![image](https://user-images.githubusercontent.com/84213057/126713129-5ba5d0c3-8704-4ce8-994a-f5220411cc88.png)
-
+<img width="419" alt="image" src="https://user-images.githubusercontent.com/83404547/126833210-12279452-a14b-4794-9162-b679e01ad72f.png">
  
-•	Data shows the unemployment rates for 2019 and 2020 by county
-
- o	Pre-Covid, Cape May County had the highest unemployment rate at 6.9%
- 
- o	Pre Covid, Hunterdon County had the lowest unemployment rate at 2.6%
- 
- o	2020, Atlantic County became the county with the highest unemployment rate changing from 4.9% to 17.8%
- 
- o	Hunterdon County remains the county with the lowest unemployment rate at 7.2%
+Data above shows the unemployment rates for 2019 and 2020 by county.
+   - Pre-Covid, Cape May County had the highest unemployment rate at 6.9%
+   - Pre Covid, Hunterdon County had the lowest unemployment rate at 2.6%
+   - During 2020, Atlantic County became the county with the highest unemployment rate from 4.9% to 17.8%
+   - Hunterdon County remains the county with the lowest unemployment rate at 7.2%
+     
 ![image](https://user-images.githubusercontent.com/84213057/126577891-2b9e83a1-47fd-4ef7-a23b-c52a81ed4ccc.png)
 
-•	Data shows the comparison of number of vaccines administered throughout NJ vs. the unemployment rates of NJ counties from December 2020 to July 2021
+Number of vaccines administered throughout NJ vs. the unemployment rates of NJ counties between December 2020 and July 2021, shows negative correlation between the two.  But as number of vaccines administered increased, the rate of unemployment throughout all counties decreased.
 
- o	There is a negative correlation between number of vaccines administered and unemployment rates.  As number of vaccines administered increased, the rate of unemployment throughout all counties decreased.  
- 
- o	Vaccines administered started to plateau in June 2021 and similarly, unemployment rates also plateaued. 
- 
- o	An increase in number of vaccines administered corresponded with a decrease in unemployment rates in NJ.
+   - Vaccines administered started to plateau in June 2021 and similarly, unemployment rates also plateaued. 
+   - An increase in number of vaccines administered corresponded with a decrease in unemployment rates in NJ.
  
  
  # Libraries:
@@ -237,10 +230,14 @@ New York had a massive decrease by November and December of 2020, rising again i
 
 -------------------------------------------------------------------------------------------------------------------------
 # Team:
+
+https://github.com/meetk5)
+
         Meet K Kaur Sahni (https://github.com/meetk5) 
         Byron Pineda (https://github.com/byronpineda225)
         Vasav Dave (https://github.com/vasavdave)
         Megan Butler (https://github.com/Mbutler22)
         Brian Johnson (https://github.com/Bjohnson08021)
+
 
 
