@@ -2,9 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/83404547/126716068-dc89b679-0ec7-4e18-89fd-241abe201f0c.png)
 
-# Table of Contents:
-
-1. Project Proposal
 
 # Project Proposal: 
 
