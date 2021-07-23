@@ -69,10 +69,6 @@ Other measures clearly played a more immediate role in improving the unemploymen
 This screen grab gives a bit of information concerning the vaccination file from the Center for Disease Control used for this project and the cleanup involved.
 
 ![image](https://user-images.githubusercontent.com/84112237/126553548-d66807c5-27f1-484a-9b05-89484c730587.png)
-
-
-![image](https://user-images.githubusercontent.com/84112237/126553595-7e0f4cc1-fea3-4d9a-8660-eda8c492d2ae.png)
-
   
 A closer look at unemployment rate versus vaccination rates for December 2020 - June 2021 give us a magnified view of a crucial period when vaccinations started being administered and how unemployment was affected. 
 
