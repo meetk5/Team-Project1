@@ -129,7 +129,7 @@ District of Columbia state saw the lowest Asian unemployment rate among the avai
 
 In the state of New jersey as well the rate for Asian population was lowest among other races at 8.1% well below average rate of the state (10.5%).
 
-## Consistent Unemployment Gap betwee Black and White Population
+## Consistent Unemployment Gap between Black and White Population
 
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/83404547/126704400-e2bd2ae6-6326-4c64-8e06-3476ddecbdcc.png"> 
 
@@ -138,6 +138,8 @@ Unemployment rates were highest for Black workers in Michigan (19.1%), Nevada (1
 Among states with available data, the unemployment rate for Black workers was lowest in Alaska, with a rate of 5.2%. 
 
 In the state of New jersey Black workers were more likely to get unemployed compared to other races with highest unemployment ratio of 13.4% above the average rate of 10.5% in NJ state.
+
+Above graph shows the inequalties that always existed between white and black unemployment rate which may have increased in post-covid era.
 
 
 ## Widening Gap of Unemployment between White and Hispanic Work Group
