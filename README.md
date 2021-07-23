@@ -29,7 +29,7 @@ This project aims to analyze the impact of COVID-19 on Unemployment in US. Our g
 2. Project1_VD.ipynb - Pre cleannup file
 
 
-# Analysing Various Industries across U.S.
+# Analysis across various Industries in U.S.
 
 We begin with analyzing Unemployment in various industries in US. As we analyze each industry, we realize that industries such as Food & Drink Services, Education & Health Services, Government services, Goods Producing Industry, Information Industry etc. were negatively impacted during March-April 2020 (at the beginning of Covid in Unites States).
 
