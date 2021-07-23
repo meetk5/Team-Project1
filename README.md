@@ -165,7 +165,7 @@ In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relativ
 
 -------------------------------------------------------------------------------------------
 
-# Tri-State Unemployment Analysis
+# Tri-State Unemployment Analysis:
 
 Between Jan’19 to March’20, unemployment rates were within the 3.0 to 4.0 range with Pennsylvania and New York relatively even in their unemployment rates while New Jersey remained slightly lower, ranging between the 3.5 to 3.6 mark. 
 
