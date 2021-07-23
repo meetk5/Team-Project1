@@ -2,6 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/83404547/126716068-dc89b679-0ec7-4e18-89fd-241abe201f0c.png)
 
+# Table of Contents:
+
+1. @Project Proposal
 
 # Project Proposal: 
 
@@ -59,13 +62,8 @@ As can be seen from the scatter plot, there's a very weak relation between the N
 Therefore, although Employment was hit the most in April-2020 when Covid started, it recovered considerably irrespective of the number of Covid Cases as the industries learnt their ways to combat the problem.
 
 
-
-
-Reports:
-
-
 -------------------------------------------------------------------------------------------
-# Analysing Impact of Vaccination on Employment
+# Analysing Impact of Vaccination on Employment:
 
 Details for this analysis can be found in the jupyter notebook – “Covid-19 Vaccination administrated and its impact on US Unemployment-checkpoint.ipynb”
 This part of the team project examined if Covid vaccinations administered had a relationship with the reduction of unemployment numbers in the US. The number of Covid vaccinations administered was used for this study and not the amount delivered. The reason for using the administered vaccinations numbers is even though there were more vaccines delivered if they were not administered then those had no impact. This data was sourced from the Center for Disease Control.
@@ -115,15 +113,15 @@ In 2020, 18.9% of the Hispanic population in the United States were unemployed, 
 
 <img width="461" alt="image" src="https://user-images.githubusercontent.com/83404547/126705840-8a09d025-efc6-497d-b3c3-b8a2848ef1d2.png">
 
-**Statewise Unemployment Scenario**
+## Statewise Unemployment Scenario
 
 <img width="597" alt="image" src="https://user-images.githubusercontent.com/83404547/126705412-a589d28a-f5d9-4dc0-b12b-94f3614b2bb3.png">
 
-**Unemployment in NJ 2020**
+## Unemployment in NJ 2020
 
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/83404547/126703934-08a34375-e224-438a-b5c5-12f6d52ce136.png">
 
-**Trends among Asian Workers**
+## Trends among Asian Workers
 
 Asian workers have seen uncharacteristically high unemployment rates throughout the pandemic, with their overall rate still just above 5% in June 2021.
 During 2020, Asian workers saw the highest unemployment rates in Nevada (16.9%), and Hawaii (12.1%).
@@ -132,7 +130,7 @@ District of Columbia state saw the lowest Asian unemployment rate among the avai
 
 In the state of New jersey as well the rate for Asian population was lowest among other races at 8.1% well below average rate of the state (10.5%).
 
-**Consistent Unemployment Gap betwee Black and White Population**
+## Consistent Unemployment Gap betwee Black and White Population
 
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/83404547/126704400-e2bd2ae6-6326-4c64-8e06-3476ddecbdcc.png"> 
 
@@ -143,7 +141,7 @@ Among states with available data, the unemployment rate for Black workers was lo
 In the state of New jersey Black workers were more likely to get unemployed compared to other races with highest unemployment ratio of 13.4% above the average rate of 10.5% in NJ state.
 
 
-**Widening Gap of Unemployment between White and Hispanic Work Group**
+## Widening Gap of Unemployment between White and Hispanic Work Group
 
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/83404547/126704655-c8a30db8-bf40-4394-8ebd-874fff196bb6.png">
 
@@ -153,12 +151,12 @@ Hispanic workers in Massachusetts faced the highest unemployment rate of all gro
 
 Hispanic workers in Kentucky saw the lowest unemployment rates in our data at 4.7%, followed by Hispanic Arkansas at 4.8%.
 
-**Trends among white workers**
+## Trends among white workers
 
 In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relative to what we now recognize was the peak (3.9%) of the previous economic recovery in March 2020. During the pandemic of 2020, average white unemployment rate was at 6.6% with only 2 states being above 10% unemployment rate that is Hawaii and Nevada. Hawaii facing the highest rates, at 11.8%, likely due to the significant blow the pandemic dealt to the tourism and hospitality industries. 
 
 
-## Unemployment Rates Recovering in Junne 2021
+## Unemployment Rates Recovering in June 2021
 
 <img width="716" alt="image" src="https://user-images.githubusercontent.com/83404547/126705273-cb569c3a-76c5-45c7-94c3-5a4b7a136253.png">
 
