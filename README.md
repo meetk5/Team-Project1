@@ -114,7 +114,12 @@ In 2020, 18.9% of the Hispanic population in the United States were unemployed, 
 
 ## Unemployment in NJ 2020
 
-<img width="935" alt="image" src="https://user-images.githubusercontent.com/83404547/126703934-08a34375-e224-438a-b5c5-12f6d52ce136.png">
+| Race      | State         | Unemployment Rate |      
+| --------  | ------------- | ----------------- |
+| Asian     | New Jersey    | 8.1               |
+| Black     | New Jersey    | 13.4              |
+| Hispaninc | New Jersey    | 11.5              |
+| White     | New Jersey    | 9.0               |
 
 ## Trends among Asian Workers
 
