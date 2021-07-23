@@ -152,6 +152,8 @@ Hispanic workers in Massachusetts faced the highest unemployment rate of all gro
 
 Hispanic workers in Kentucky saw the lowest unemployment rates in our data at 4.7%, followed by Hispanic Arkansas at 4.8%.
 
+When it comes to divide between white and hispanic workforce the rate increased from 1-2% to 5% during covid annd curretlystabilisng at 3-4%, still considerably higher than pre-covid era.
+
 ## Trends among white workers
 
 In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relative to what we now recognize was the peak (3.9%) of the previous economic recovery in March 2020. During the pandemic of 2020, average white unemployment rate was at 6.6% with only 2 states being above 10% unemployment rate that is Hawaii and Nevada. Hawaii facing the highest rates, at 11.8%, likely due to the significant blow the pandemic dealt to the tourism and hospitality industries. 
