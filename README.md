@@ -56,7 +56,7 @@ As seen from the double line grapth, the unemployment was at it's peak in April-
 
 To further strengthen our hypothesis, we created a Scatter plot and established Linear Regression between the two variables. 
 
-![image](https://user-images.githubusercontent.com/65046405/126683728-777809de-6a8f-40d4-a00d-51f26b1e1c99.png)
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/83404547/126843263-5ef7c2cc-c153-407e-8a79-856f5c72a55f.png">
 
 As can be seen from the scatter plot, there's a very weak relation between the Number of Covid Cases and Unemployment. Also, they are negatively correlated. From the r-value (-0.34) and p-value (0.17), it can be concluded that the correlation is not statically significant.
 Therefore, although Employment was hit the most in April-2020 when Covid started, it recovered considerably irrespective of the number of Covid Cases as the industries learnt their ways to combat the problem.
