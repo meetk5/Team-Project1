@@ -2,19 +2,21 @@
 
 ![image](https://user-images.githubusercontent.com/83404547/126716068-dc89b679-0ec7-4e18-89fd-241abe201f0c.png)
 
+# Table of Contents:
+
+1. Project Proposal
 
 # Project Proposal: 
 
-This project aims to analyze the impact of COVID-19 on Unemployment in US. Our goal is to uncover the unemployment patterns across various industries, demographics, races etc. We established the correlation between number of Covid Cases, Vaccination rate and unemployment. We conclude the analysis with the data from the state of New Jersey and its counties, while correlating it with vaccination rate. 
+This project aims to analyze the impact of COVID-19 on Unemployment in US. Our goal is to uncover the unemployment patterns across various industries, demographics, races etc. We established the correlation between number of Covid Cases, Vaccination rate and unemployment. We conclude with county-wise analysis in New Jersey while correlating it with Vaccination rate. 
 
-# Questions:
-1.	How has Covid impacted the employment in US industries?
+# Questions answered:
+1.	How has Covid impacted the employment across industries in US?
 2.	What is the correlation between number of Covid Cases and Unemployment?
 3. How has Covid impacted the unemployment amongst different races?
 4.	Comparative analysis on Unemployment situtaion within Tri-State Area.
 5.	How much has Covid impacted the unemployment across NJ state and counties? 
 6.	Has the rate of Vaccinations impacted the rate of unemployment in US ?
-
 
 # Data Sources:
 1.	U.S. BUREAU OF LABOR STATISTICS:  https://www.bls.gov/ 
@@ -25,40 +27,35 @@ This project aims to analyze the impact of COVID-19 on Unemployment in US. Our g
 6.	Data for Covid cases: https://github.com/nytimes/covid-19-data 
 
 
-
 # Data Cleaning:
-
-1. Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb  
-   Gathered data from New Jersey LAWD website and created clean dataframe with each NJ county’s unemployment rates for every month starting from Jan'19 to May' 21
-2. Project1_VD.ipynb
-
+Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb:  Gathered data from New Jersey LAWD website and created clean dataframe with each NJ county’s unemployment rates for every month starting from Jan 2019 to May 2021.
 
 
 # Analysing Various Industries across U.S.
 
-We begin with analyzing Unemployment in various industries in US. As we analyse each industry, we realize that industries such as Food & Drink Services, Education & Health Services, Government services, Goods Producing Industry, Information Industry etc. was negatively impacted during March-April 2020 at the advent of pandemic. 
+We begin with analyzing Unemployment in various industries in US. As we analyze each industry, we realize that industries such as Food & Drink Services, Education & Health Services, Government services, Goods Producing Industry, Information Industry etc. were negatively impacted during March-April 2020 (at the beginning of Covid in Unites States).
 
 <img width="510" alt="image" src="https://user-images.githubusercontent.com/83404547/126714624-5e538ef8-24c3-4c26-afb9-0d1ef92e929d.png">
 
 ![image](https://user-images.githubusercontent.com/83404547/126715446-ab3163eb-ed46-4104-8551-f7017de99694.png)
 
-Analysis was extennded to compare various industries and to idenntify Food & Hospitality industries being the worst hit while Information Industry and Government Services were least impacted. Education & Health Services remained least imapcted and managed to survive the recession.
+Analysis was extended to compare various industries and to identify Food & Hospitality industries being the worst hit while Information Industry and Government Services were least impacted. Education & Health Services remained least affected and managed to survive the recession.
 
 ![image](https://user-images.githubusercontent.com/65046405/126682434-3fd1f14b-7b45-4b32-a4ac-3726ba54c3d6.png)
 
-Followed by industry-level analysis, we did the month-wise analysis from Jan-2020 to June-2021 comparing the Number of Covid Cases with Unemployment in US.
+Followed by industry-level analysis, we did the month-wise analysis from Jan-2020 to June-2021 to find the relationship between the Number of Covid Cases and Unemployment in US.
 
 ![image](https://user-images.githubusercontent.com/65046405/126682932-37d7d638-3fcf-4da0-9b4c-ed6bd13c033e.png)
 
-As seen from the double line grapth, the unemployment was at it's peak in April-2020 but it slowly came down and has recovered considerably. The number of Covid Cases on the other hand began in Jan-2020 and have considerably risen till May-2021 before they gradually started falling in June-2021. 
+As seen from the double line grapth, the unemployment was at it's peak in April-2020 but it slowly came down and has recovered considerably. On the other hand, the Covid Cases began in Jan-2020 and have considerably risen till May-2021 before they gradually started falling in June-2021. 
 
 # Correlation between COVID cases and Unemployment:
 
 To further strengthen our hypothesis, we created a Scatter plot and established Linear Regression between the two variables. 
 
-<img width="441" alt="image" src="https://user-images.githubusercontent.com/83404547/126843263-5ef7c2cc-c153-407e-8a79-856f5c72a55f.png">
+![image](https://user-images.githubusercontent.com/65046405/126683728-777809de-6a8f-40d4-a00d-51f26b1e1c99.png)
 
-As can be seen from the scatter plot, there's a very weak relation between the Number of Covid Cases and Unemployment. Also, they are negatively correlated. From the r-value (-0.34) and p-value (0.17), it can be concluded that the correlation is not statically significant.
+As can be seen from the scatter plot, there's almost on correlation between the Number of Covid Cases and Unemployment. From the r-value (-0.34) and p-value (0.17), it can be concluded that the correlation is not statically significant.
 Therefore, although Employment was hit the most in April-2020 when Covid started, it recovered considerably irrespective of the number of Covid Cases as the industries learnt their ways to combat the problem.
 
 
@@ -151,8 +148,6 @@ The overall unemployment rate for Hispanic workers was the highest (18.9%) among
 Hispanic workers in Massachusetts faced the highest unemployment rate of all groups measured, at 15.3%, followed relatively closely behind by Hispanic workers in Rhode Island who faced a 15.2% unemployment rate, and Hispanic Nevadans at 15.2%.  Hispanics in NJ also reported above 10% unemployment rate at 11.5%.
 
 Hispanic workers in Kentucky saw the lowest unemployment rates in our data at 4.7%, followed by Hispanic Arkansas at 4.8%.
-
-When it comes to divide between white and hispanic workforce the rate increased from 1-2% to 5% during covid annd curretlystabilisng at 3-4%, still considerably higher than pre-covid era.
 
 ## Trends among white workers
 
