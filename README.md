@@ -2,10 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/83404547/126716068-dc89b679-0ec7-4e18-89fd-241abe201f0c.png)
 
-# Table of Contents:
-
-1. Project Proposal
-
 # Project Proposal: 
 
 This project aims to analyze the impact of COVID-19 on Unemployment in US. Our goal is to uncover the unemployment patterns across various industries, demographics, races etc. We established the correlation between number of Covid Cases, Vaccination rate and unemployment. We conclude with county-wise analysis in New Jersey while correlating it with Vaccination rate. 
@@ -45,8 +41,7 @@ Analysis was extended to compare various industries and to identify Food & Hospi
 
 Followed by industry-level analysis, we did the month-wise analysis from Jan-2020 to June-2021 to find the relationship between the Number of Covid Cases and Unemployment in US.
 
-<img width="417" alt="image" src="https://user-images.githubusercontent.com/83404547/126843450-f0597a52-318d-45c7-827e-ee4edb19853e.png">
-
+![image](https://user-images.githubusercontent.com/65046405/126682932-37d7d638-3fcf-4da0-9b4c-ed6bd13c033e.png)
 
 As seen from the double line grapth, the unemployment was at it's peak in April-2020 but it slowly came down and has recovered considerably. On the other hand, the Covid Cases began in Jan-2020 and have considerably risen till May-2021 before they gradually started falling in June-2021. 
 
