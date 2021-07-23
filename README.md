@@ -105,7 +105,12 @@ In 2020, 18.9% of the Hispanic population in the United States were unemployed, 
 
 ## Statewise Unemployment Scenario
 
-<img width="597" alt="image" src="https://user-images.githubusercontent.com/83404547/126705412-a589d28a-f5d9-4dc0-b12b-94f3614b2bb3.png">
+| Race      | State         | Unemployment Rate |      
+| --------  | ------------- | ----------------- |
+| Asian     | Nevada        | 16.9              |
+| Black     | Michigan      | 19.1              |
+| Hispaninc | Massachusetts | 15.3              |
+| White     | Hawaii        | 11.8              |
 
 ## Unemployment in NJ 2020
 
