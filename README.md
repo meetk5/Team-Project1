@@ -24,7 +24,9 @@ This project aims to analyze the impact of COVID-19 on Unemployment in US. Our g
 
 
 # Data Cleaning:
-Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb:  Gathered data from New Jersey LAWD website and created clean dataframe with each NJ county’s unemployment rates for every month starting from Jan 2019 to May 2021.
+1. Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb  
+    Gathered data from New Jersey LAWD website and created clean dataframe with each NJ county’s unemployment rates for every month starting from Jan'19 to May'21
+2. Project1_VD.ipynb - Pre cleannup file
 
 
 # Analysing Various Industries across U.S.
@@ -49,9 +51,9 @@ As seen from the double line grapth, the unemployment was at it's peak in April-
 
 To further strengthen our hypothesis, we created a Scatter plot and established Linear Regression between the two variables. 
 
-![image](https://user-images.githubusercontent.com/65046405/126683728-777809de-6a8f-40d4-a00d-51f26b1e1c99.png)
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/83404547/126843263-5ef7c2cc-c153-407e-8a79-856f5c72a55f.png">
 
-As can be seen from the scatter plot, there's almost on correlation between the Number of Covid Cases and Unemployment. From the r-value (-0.34) and p-value (0.17), it can be concluded that the correlation is not statically significant.
+As can be seen from the scatter plot, there's almost no correlation between the Number of Covid Cases and Unemployment. From the r-value (-0.34) and p-value (0.17), it can be concluded that the correlation is not statically significant.
 Therefore, although Employment was hit the most in April-2020 when Covid started, it recovered considerably irrespective of the number of Covid Cases as the industries learnt their ways to combat the problem.
 
 
@@ -144,6 +146,8 @@ The overall unemployment rate for Hispanic workers was the highest (18.9%) among
 Hispanic workers in Massachusetts faced the highest unemployment rate of all groups measured, at 15.3%, followed relatively closely behind by Hispanic workers in Rhode Island who faced a 15.2% unemployment rate, and Hispanic Nevadans at 15.2%.  Hispanics in NJ also reported above 10% unemployment rate at 11.5%.
 
 Hispanic workers in Kentucky saw the lowest unemployment rates in our data at 4.7%, followed by Hispanic Arkansas at 4.8%.
+
+When it comes to divide between white and hispanic workforce the rate increased from 1-2% to 5% during covid annd curretlystabilisng at 3-4%, still considerably higher than pre-covid era.
 
 ## Trends among white workers
 
