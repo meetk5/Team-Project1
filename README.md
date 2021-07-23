@@ -216,10 +216,10 @@ In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relativ
 
 -------------------------------------------------------------------------------------------------------------------------
 # Team:
-        Meet K Kaur Sahni (GitHub username: meetk5) 
-        Byron Pineda (GitHub username:bpineda225)
-        Vasav Dave (GitHub username:Vasavdave)
-        Megan Butler (GitHub username:Mbutler22)
-        Brian Johnson (GitHub username:Bjohnson08021)
+        Meet K Kaur Sahni (https://github.com/meetk5) 
+        Byron Pineda (https://github.com/byronpineda225)
+        Vasav Dave (https://github.com/vasavdave)
+        Megan Butler (https://github.com/Mbutler22)
+        Brian Johnson (https://github.com/Bjohnson08021)
 
 
