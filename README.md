@@ -231,13 +231,11 @@ Number of vaccines administered throughout NJ vs. the unemployment rates of NJ c
 -------------------------------------------------------------------------------------------------------------------------
 # Team:
 
-https://github.com/meetk5)
-
-        Meet K Kaur Sahni (https://github.com/meetk5) 
-        Byron Pineda (https://github.com/byronpineda225)
-        Vasav Dave (https://github.com/vasavdave)
-        Megan Butler (https://github.com/Mbutler22)
-        Brian Johnson (https://github.com/Bjohnson08021)
+   Meet K Kaur Sahni (https://github.com/meetk5) 
+   Byron Pineda (https://github.com/byronpineda225)
+   Vasav Dave (https://github.com/vasavdave)
+   Megan Butler (https://github.com/Mbutler22)
+   Brian Johnson (https://github.com/Bjohnson08021)
 
 
 
