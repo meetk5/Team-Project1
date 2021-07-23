@@ -49,7 +49,7 @@ Followed by industry-level analysis, we did the month-wise analysis from Jan-202
 
 As seen from the double line grapth, the unemployment was at it's peak in April-2020 but it slowly came down and has recovered considerably. The number of Covid Cases on the other hand began in Jan-2020 and have considerably risen till May-2021 before they gradually started falling in June-2021. 
 
-# Correlation between COVID cases and Unemployment 
+# Correlation between COVID cases and Unemployment:
 
 To further strengthen our hypothesis, we created a Scatter plot and established Linear Regression between the two variables. 
 
@@ -180,29 +180,26 @@ New York had a massive decrease by November and December of 2020, rising again i
 
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/83404547/126833019-9a56d4d7-4982-4c71-89cf-766aa2caec5f.png">
 
-•	The New York unemployment rate remains the highest of each state throughout the 3 years.
+The New York unemployment rate remains the highest of each state throughout the 3 years.
 
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/83404547/126833053-d1c408e6-2ef0-4038-b8f4-52a6fbea2f0b.png">
 
-•	Pennslyvania and New York unemployment rates remain slightly higher than New Jersey post- recovery 2021 thus far.
+Pennslyvania and New York unemployment rates remain slightly higher than New Jersey post- recovery 2021 thus far.
 
 
 
 -------------------------------------------------------------------------------------------
-# Unemployment Across NJ State and Counties
+# Unemployment Across NJ State and Counties:
 
 
 <img width="317" alt="image" src="https://user-images.githubusercontent.com/83404547/126707432-59dd332d-9cc7-45ba-8941-e4e2313e0fbc.png">
 
 
+Analyiss across NJ state counties suggests that,
 
-•Data shows the monthly unemployment rates by County in the state of NJ
-
-   o	Starting around the months of April unemployment peaked till June 2020 and started to drop in July 2020.
- 
-   o	The county with the highest unemployment rate during the peak was Atlantic County
- 
-   o	A significant outlier before Covid was Cape May County.
+   - Unemployment peaked beginning April'20 till June'20 and evenntually started recovering in July '20.
+   - The county with the highest unemployment rate during the peak was Atlantic Count
+   - A significant outlier before Covid was Cape May County.
    
    
 <img width="419" alt="image" src="https://user-images.githubusercontent.com/83404547/126833210-12279452-a14b-4794-9162-b679e01ad72f.png">
@@ -230,7 +227,7 @@ Number of vaccines administered throughout NJ vs. the unemployment rates of NJ c
 
 # Team:
 
-   Meet K Kaur Sahni (https://github.com/meetk5) 
+   Meet K Kaur Sahni (https://github.com/meetk5)
    Byron Pineda (https://github.com/byronpineda225)
    Vasav Dave (https://github.com/vasavdave)
    Megan Butler (https://github.com/Mbutler22)
