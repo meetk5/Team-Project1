@@ -165,7 +165,28 @@ In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relativ
 
 -------------------------------------------------------------------------------------------
 
-# Megan to ADD
+# Tri-State Unemployment Analysis
+
+Between Jan’19 to March’20, unemployment rates were within the 3.0 to 4.0 range with Pennsylvania and New York relatively even in their unemployment rates while New Jersey remained slightly lower, ranging between the 3.5 to 3.6 mark. 
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/83404547/126832838-06ec13d0-0aac-4057-9cd6-816fd459f01b.png">
+
+Once the pandemic hit in March of 2020, both Pennsylvania and New Jersey unemployment  trippled in their rates to the 15 to 16 point range, leaving New York remaining at a lower rate of 3.9. It was not until May of 2020 that we were able to see a significant impact with New York and Pennsylvania’s unemployment rate rising to the 16.0 range.
+
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/83404547/126832941-c6b8c3c0-68a2-49c1-afb1-c4932dea3346.png">
+
+New Jersey had a slightly better recovery starting in September of 2020 dropping just below the 10.0 range.
+New York had a massive decrease by November and December of 2020, rising again in January of 2021 to the 10.0 range, only to gradually decrease within the 8 to 7 point range.
+
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/83404547/126833019-9a56d4d7-4982-4c71-89cf-766aa2caec5f.png">
+
+•	The New York unemployment rate remains the highest of each state throughout the 3 years.
+
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/83404547/126833053-d1c408e6-2ef0-4038-b8f4-52a6fbea2f0b.png">
+
+•	Pennslyvania and New York unemployment rates remain slightly higher than New Jersey post- recovery 2021 thus far.
+
+
 
 -------------------------------------------------------------------------------------------
 # Unemployment Across NJ State and Counties
