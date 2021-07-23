@@ -158,7 +158,7 @@ Hispanic workers in Kentucky saw the lowest unemployment rates in our data at 4.
 In June 2021, the white unemployment rate was 5.2%, still up 1.3% points relative to what we now recognize was the peak (3.9%) of the previous economic recovery in March 2020. During the pandemic of 2020, average white unemployment rate was at 6.6% with only 2 states being above 10% unemployment rate that is Hawaii and Nevada. Hawaii facing the highest rates, at 11.8%, likely due to the significant blow the pandemic dealt to the tourism and hospitality industries. 
 
 
-**Unemployment Rates Recovering in Junne 2021**
+## Unemployment Rates Recovering in Junne 2021
 
 <img width="716" alt="image" src="https://user-images.githubusercontent.com/83404547/126705273-cb569c3a-76c5-45c7-94c3-5a4b7a136253.png">
 
