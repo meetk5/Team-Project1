@@ -25,7 +25,10 @@ This project aims to analyze the impact of COVID-19 on Unemployment in US. Our g
 
 # Data Cleaning:
 1. Effect_of_Covid_Unemployment_NJ_Data_Analysis.ipynb  
-    Gathered data from New Jersey LAWD website and created clean dataframe with each NJ county’s unemployment rates for every month starting from Jan'19 to May'21
+    a. Gathered data from New Jersey LAWD website and created clean dataframe with each NJ county’s unemployment rates for every month starting from Jan'19 to May'21
+    b. Three excel files were combined into one big excel file to create a single datasource to pull data from
+    c. Three excel sheets were merged into one dataframe to show the complete timeline in the dataset
+    d. Dataframes were transposed to allow easier access to call data from columns instead of rows
 2. Project1_VD.ipynb - Pre cleannup file
 
 
